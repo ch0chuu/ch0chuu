@@ -1,4 +1,11 @@
+# 안녕하세요?
 ## Hi there 👋
+### 하이 까까루
+_기울기_
+**_밑줄 기울기_**
+**볼드체**
+> 앞으로 더 열심히 하겠습니다!
+
 
 <!--
 **ch0chuu/ch0chuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
